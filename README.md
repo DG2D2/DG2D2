@@ -5,13 +5,12 @@
 </div>
 <br>
 
-- 🔭 Atualmente trabalho com -> Análise de Processos para Licenciamento Ambiental | Estágio prefeitura
-- 🌱 Atualmente estudo -> ADS em Unicid | Python em DIO
-- 🤔 Procuro adquirir experiência profissional na área de Análise e Desenvolvimento de Sistemas.
-- 📫 Contatos -> Telefone: (11) 95341-0423 | e-mail: davig1314@gmail.com
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)
+- 🌱 Atualmente estudo -> Java | Python | SQL | QA
+- 📫 Contatos -> Linkedin: www.linkedin.com/in/dg2d2 | e-mail: davig1314@gmail.com | Telefone: (11) 95341-0423
 <br>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Universidade Cidade de São Paulo (Unicid). Constantemente estou buscando atualizar meus conhecimentos para evoluir
+<p align="center">Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (Unicid). Constantemente estou buscando atualizar meus conhecimentos para evoluir
 como profissional na área da tecnologia. Almejo superar novos desafios e desenvolver soluções práticas e inovadoras.
 
 <div style="text-align: center;" align="center">
